@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at [DWF Labs](https://www.dwf-labs.com/) & [ARKI](http://arki.co.id/)
 - 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on UI Design and Cyber security
+- 👯 I’m looking to collaborate on UI Design and friend to learn Cyber security
 - 📫 How to reach me: you can contact me to my social media or email me
 
 
